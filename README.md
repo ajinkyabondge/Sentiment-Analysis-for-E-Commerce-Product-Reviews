@@ -20,6 +20,7 @@ To build an end-to-end system that:
    - Bar plots for rating frequency  
    - Confusion matrix for prediction accuracy  
    - Word clouds for positive/negative words
+     
 ✅ Simple and clean **Flask web app** for user interaction  
 ✅ Helps both customers & companies understand product sentiment
 
@@ -75,4 +76,38 @@ A simple UI to:
 
 Sentiment Pie Chart:
 
-![Screenshot (495)]([ActualSentiment.png](https://github.com/ajinkyabondge/Sentiment-Analysis-for-E-Commerce-Product-Reviews/blob/6d4e7538ccb448129d5b7adbf1618616426d13af/Actual%20Sentiment.png))
+![Screenshot (495)](Actual_Sentiment.png)
+
+Rating Predictions :
+
+![Screenshot (495)](Bar_Graph.png)
+
+Confusion Matrix :
+
+![Screenshot (495)](confusion_matrix.png)
+
+Word Cloud :
+
+![Screenshot (495)](Word_Cloud.png)
+
+Top 20 Keywords :
+
+![Screenshot (495)](Top_20_Keyword.png)
+
+🌟 Applications
+
+👤 For Customers
+- Helps understand overall product sentiment
+- Quick overview of pros/cons
+- Reduces decision time
+
+🏢 For Companies
+- Detects product improvement areas
+- Tracks user satisfaction trends
+- Helps in competitive analysis
+
+👨‍💻 Team Members
+- Atharva Patil
+- Mehul Chavan
+- Pratik Chinchawadkar
+- and myself : Ajinkya Bondge 
